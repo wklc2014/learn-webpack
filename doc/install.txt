@@ -1,0 +1,27 @@
+npm install --save-dev
+- 安装 webpack
+webpack
+
+- 安装 babel 相关及 .babelrc 配置文件
+babel-core
+babel-loader
+babel-preset-react
+babel-preset-es2015
+babel-preset-stage-0
+
+- 加载 CSS 文件
+style-loader css-loader
+
+- 加载图片
+file-loader
+
+- 跨平台地设置及使用环境变量
+cross-env
+
+- webpack 插件
+copy-webpack-plugin
+clean-webpack-plugin
+html-webpack-plugin
+
+- create-react-app 工具
+react-dev-utils
